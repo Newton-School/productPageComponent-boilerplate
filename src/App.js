@@ -2,7 +2,7 @@ import "./App.css";
 import ProductDetails from "./components/ProductDetails";
 import ProductDescription from "./components/ProductsDescription";
 import Ratings from "./components/Ratings";
-import Related from "./components/Realted";
+import Related from "./components/Related";
 
 const App = () => {
   return (
